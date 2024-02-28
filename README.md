@@ -4,7 +4,7 @@ Data Analysis in Excel by S. Anand. The objective of this module is two-fold:
 2) to learn data manipulation and analysis to solve business problems using case studies.
 
 
-Introduction 
+## Introduction 
 
 Welcome to Data Analysis in Excel by S. Anand. The objective of this module is two-fold:
 
@@ -45,4 +45,53 @@ Passwords and Naming Files
 As you progress through this session, you will observe that we have asked focussed questions to Anand. They will come across as focused "interview" questions and are meant to answer common misconceptions and learn from Anand's experience of using Excel for over 20 years!
 
  
+## Understanding the Excel Interface
+
+Welcome to the first segment of Data Analysis in Excel. In this segment, you will understand the Excel interface and learn how to read a typical data file and the structure of the Excel interface. If you are completely new to Excel (or have minimal experience of using it), this is the place to start! 
+
+ 
+
+In the entire first session, we will use the hospital charges  data set. You are requested to download the data file from the bottom of this page. 
+
+
+You are now clear with where the majority of Excel tool boxes are located - the poweful ribbon bar!  Next, we'll move towards reading and analysing the data itself.
+
+ 
+
+But before we start analysing the dataset, let's understand what we're going to accomplish in this session. 
+
+The Hospital Charges dataset has more than 150,000 records of treatment of various ailments in several US hospitals. Some stats about the dataset:
+
+The dataset has a record of 100 ailments
+It has a list of 3000+ healthcare providers (hospitals, medical centres, etc.)
+It has data from 50 states of the USA and approximately 2000 cities across the USA
+It describes the cost of treatment for approximately 7 million patients
+Each record (or row) is a unique combination of state, city, ailment & provider. It also lists the average cost of treatment for a particular ailment.
+
+ 
+
+How are we going to use this dataset?
+
+We are going to analyse this "raw" dataset and prepare a "report" having the list of providers treating a specific ailment in a particular state of USA. Subsequently, we will rank providers by the cost of treatment.
+
+Such a "report" will be extremely useful to government agencies and patients across the state. Instead of analysing the entire dataset, they will now use this report to find the cheapest healthcare provider in their city. Think of this report like a sorted "Yellow Pages" or "Dictionary".
+
+ 
+
+In the process, we will learn about some tools that help in analysis like:
+
+Sort & Filter
+Conditional Formatting
+We will also learn about formatting tools that make a report readable.
+
+So, without any further delay, let's step into making this report.
+
+In the next segment, you will learn some of the most useful and frequently used operations in Excel - sort and filter. 
+
+Downloads
+
+You can download the hospital - charges data file here 
+(link_to_excel_sheet.xlsx).
+
+
 
