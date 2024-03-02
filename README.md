@@ -90,8 +90,7 @@ In the next segment, you will learn some of the most useful and frequently used 
 
 Downloads
 
-You can download the hospital - charges data file here 
-(link_to_excel_sheet.xlsx).
+You can download the [hospital - charges data file] (link_to_excel_sheet.xlsx).
 
 
 
